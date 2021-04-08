@@ -1,4 +1,4 @@
-# Yoonsang Lee (이윤상) 🇰🇷 - Web Front-end side programmer
+# Yoonsang Lee (이윤상) 🇰🇷 -> Web Front-side Programmer
 
 ## 📬
 
@@ -6,11 +6,10 @@
 
 ## 🧙🏻‍♀
 
-Hello, I'm Yoonsang from South Korea and on my way studying to begin my first career as a web developer. I speak English at the level of B2. I would like to utilise my knowledge to put the world at the better place at some point in the future.
+Hello, I'm Yoonsang from South Korea and on my way studying to begin my first career as a web developer. I speak English at the level of B2.
 
-Bonjour, Je m'appelle yoonsang de Corée du sud, Je travaille sur mon portfolio pour débuter ma carrière en tant que développeur web. et je parle français au niveau de B1. 
-Peu importe auxquels lieux je travaille dans le monde.
-Je voudrais me dévouer pour améliorer le monde mieux à certain point du futur.
+Bonjour, Je m'appelle yoonsang de Corée du sud, Je travaille sur mon portfolio pour débuter ma carrière en tant que développeur web et je parle français au niveau de B1. 
+
 
 ### 📚 web front-side
 
