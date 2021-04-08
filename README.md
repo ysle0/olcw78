@@ -22,6 +22,6 @@ Je voudrais me dévouer pour améliorer le monde mieux à certain point du futur
 ![c](https://img.shields.io/badge/C-A8B9CC) ![c++](https://img.shields.io/badge/C++-00599C) ![c#](https://img.shields.io/badge/csharp-239120)
 ![webgl](https://img.shields.io/badge/webGL-990000?&logo=webgl&logoColor=white) ![opnegl](https://img.shields.io/badge/openGL-5586A4?&logo=opengl&logoColor=white) ![directX11](https://img.shields.io/badge/directX11-00599C) ![unity3d](https://img.shields.io/badge/unity3d-000000?logo=unity&logoColor=white) ![unreal-engine4](https://img.shields.io/badge/Unreal_Engine4-313131) ![cocos2d-x](https://img.shields.io/badge/cocos2dx-313131?logo=cocos)
 
-![olcw78's github stats](https://github-readme-stats.vercel.app/api?username=olcw78&show_icons=true)
+<!-- ![olcw78's github stats](https://github-readme-stats.vercel.app/api?username=olcw78&show_icons=true) -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folcw78%2Fhit-counter&count_bg=%23FF00E7&title_bg=%2300B5D5&icon=verizon.svg&icon_color=%23000000&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folcw78%2Fhit-counter&count_bg=%23FF00E7&title_bg=%2300B5D5&icon=verizon.svg&icon_color=%23000000&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
