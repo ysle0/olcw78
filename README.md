@@ -4,13 +4,6 @@
 
 [![Protonmail Badge](https://img.shields.io/badge/protonmail-8B89CC?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:highp0912@protonmail.ch)](mailto:highp0912@protonmail.ch)
 
-## 🧙🏻‍♀
-
-Hello, I'm Yoonsang from South Korea and on my way studying to begin my first career as a web developer. I speak English at the level of B2.
-
-Bonjour, Je m'appelle yoonsang de Corée du sud, Je travaille sur mon portfolio pour débuter ma carrière en tant que développeur web et je parle français au niveau de B1. 
-
-
 ### 📚 web front-side
 
 ![javascript](https://img.shields.io/badge/_-F7DF1E?logo=javascript&logoColor=black) ![typescript](https://img.shields.io/badge/_-3178C6?logo=typescript&logoColor=white)
