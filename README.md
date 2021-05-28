@@ -18,6 +18,8 @@
 <!-- > [in English][resume-in-english] -->
 <!-- > [en français][resume-in-french] -->
 
+---
+
 ## 🗣️ language
 
 > &nbsp;
@@ -58,6 +60,8 @@
 
 ## Hits 
 ![Hits][hits-link]
+
+---
 
 <!-- Contacts -->
 [mail-link]: https://img.shields.io/badge/protonmail-8B89CC?style=flat-square&badge=Protonmail&badgeColor=white&link=mailto:highp0912@pm.me
