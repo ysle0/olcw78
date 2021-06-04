@@ -10,16 +10,6 @@
 
 ---
 
-## 📜 이력서(résumé)
-
-> &nbsp;
-> [한국어][resume-in-korean]
-> &nbsp;
-<!-- > [in English][resume-in-english] -->
-<!-- > [en français][resume-in-french] -->
-
----
-
 ## 🗣️ language
 
 > &nbsp;
@@ -54,12 +44,12 @@
 
 ## Stats
 
-![olcw78's github stats][github-stats]
+<!-- ![olcw78's github stats][github-stats] -->
 
 ---
 
 ## Hits 
-![Hits][hits-link]
+<!-- ![Hits][hits-link] -->
 
 ---
 
