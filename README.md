@@ -30,6 +30,11 @@
 > ![node.js][node.js-badge] ![express.js][express.js-badge]
 > &nbsp;
 
+## 😙 mobile app front-end
+
+> &nbsp;
+> ![react-native][react-native-badge]
+
 ## 🎮 3d & game
 
 > ### framework
@@ -40,18 +45,18 @@
 > ![unity3d][unity3d-badge] ![unreal-engine4][unreal-engine4-badge] ![cocos2d-x][cocos2d-x-badge]
 > &nbsp;
 
----
+<!-- --- -->
 
-## Stats
+<!-- ## Stats -->
 
 <!-- ![olcw78's github stats][github-stats] -->
 
----
+<!-- --- -->
 
-## Hits 
+<!-- ## Hits  -->
 <!-- ![Hits][hits-link] -->
 
----
+<!-- --- -->
 
 <!-- Contacts -->
 [mail-link]: https://img.shields.io/badge/protonmail-8B89CC?style=flat-square&badge=Protonmail&badgeColor=white&link=mailto:highp0912@pm.me
@@ -60,21 +65,24 @@
 [resume-in-korean]: https://www.notion.so/0d936c807bdd4cdeb0a5c420ecaa7da5
 
 <!-- language -->
-[javascript-badge]: https://img.shields.io/badge/_-F7DF1E?logo=javascript&logoColor=black
-[typescript-badge]: https://img.shields.io/badge/_-3178C6?logo=typescript&logoColor=white
+[javascript-badge]: https://img.shields.io/badge/_-F7DF1E?logo=javascript&logoColor=white "javascript badge alt"
+[typescript-badge]: https://img.shields.io/badge/_-3178C6?logo=typescript&logoColor=white "typescript badge alt"
 [c-badge]: https://img.shields.io/badge/C-A8B9CC "c badge alt"
 [c++-badge]: https://img.shields.io/badge/C++-00599C "c++ badge alt" 
 [c#-badge]: https://img.shields.io/badge/csharp-239120 "c# badge alt"
 
 <!-- skill: web front-end -->
-[react.js-badge]: https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=black
+[react.js-badge]: https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white "react.js badge alt"
 
 <!-- skill: web back-end -->
 [node.js-badge]: https://img.shields.io/badge/node.js-339933?badge=node.js&badgeColor=white "node.js badge alt"
 [express.js-badge]: https://img.shields.io/badge/express.js-000000?badge=express&badgeColor=white "express.js badge alt"
 
+<!-- skill: mobile app front-end -->
+[react-native-badge]: https://img.shields.io/badge/reactnative-61DAFB?logo=react&logoColor=white "react-native badge alt"
+
 <!-- skill: 3d & game -->
-[three.js-badge]: https://img.shields.io/badge/three.js-000000?badge=three.js&badgeColor=white
+[three.js-badge]: https://img.shields.io/badge/three.js-000000?badge=three.js&badgeColor=white "three.js badge alt"
 [webgl-badge]: https://img.shields.io/badge/webGL-990000?&logo=webgl&logoColor=white "webgl badge alt"
 [opengl-badge]: https://img.shields.io/badge/openGL-5586A4?&logo=opengl&logoColor=white "opengl badge alt"
 [directx11-badge]: https://img.shields.io/badge/directX11-00599C "directx 11 badge alt"
