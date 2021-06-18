@@ -65,8 +65,8 @@
 [resume-in-korean]: https://www.notion.so/0d936c807bdd4cdeb0a5c420ecaa7da5
 
 <!-- language -->
-[javascript-badge]: https://img.shields.io/badge/_-F7DF1E?logo=javascript&logoColor=white "javascript badge alt"
-[typescript-badge]: https://img.shields.io/badge/_-3178C6?logo=typescript&logoColor=white "typescript badge alt"
+[javascript-badge]: https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white "javascript badge alt"
+[typescript-badge]: https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white "typescript badge alt"
 [c-badge]: https://img.shields.io/badge/C-A8B9CC "c badge alt"
 [c++-badge]: https://img.shields.io/badge/C++-00599C "c++ badge alt" 
 [c#-badge]: https://img.shields.io/badge/csharp-239120 "c# badge alt"
