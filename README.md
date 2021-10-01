@@ -5,22 +5,6 @@ React Native & Unity3d
 
 ---
 
-## 📬
-
-> &nbsp;
-> [![Protonmail Badge][mail-link]](mailto:highp0912@pm.me)
-> &nbsp;
-
----
-
-## 🗣️ language
-
-> &nbsp;
-> ![javascript][javascript-badge] ![typescript][typescript-badge]
-> 
-> ![c][c-badge] ![c++][c++-badge] ![c#][c#-badge]
-> &nbsp;
-
 ## 🕸️ web front-end
 
 > &nbsp;
