@@ -1,4 +1,4 @@
-# Yoonsang Lee (이윤상) 🇰🇷 -> Web Front-side Programmer
+# Yoonsang Lee (이윤상) 🇰🇷
 
 I work as a freelancer programmer currently!
 React Native & Unity3d
