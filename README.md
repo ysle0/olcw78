@@ -1,7 +1,7 @@
-# Yoonsang Lee (이윤상) 🇰🇷
+# Yoonsang Lee
 
-I work as a freelancer programmer currently!
-React Native & Unity3d
+freelancer programmer year-1
+React & Unity3d
 
 ---
 
@@ -11,24 +11,10 @@ React Native & Unity3d
 > ![react.js][react.js-badge]
 > &nbsp;
 
-## 🎒 web back-end
-
-> &nbsp;
-> ![node.js][node.js-badge] ![express.js][express.js-badge]
-> &nbsp;
-
-## 😙 mobile app front-end
-
-> &nbsp;
-> ![react-native][react-native-badge]
-
 ## 🎮 3d & game
 
-> ### framework
-> ![three.js][three.js-badge] ![webgl][webgl-badge] ![opengl][opengl-badge] ![directX11][directx11-badge]
 > &nbsp;
-
-> ### engine
+> ![three.js][three.js-badge] ![webgl][webgl-badge] ![opengl][opengl-badge] ![directX11][directx11-badge]
 > ![unity3d][unity3d-badge] ![unreal-engine4][unreal-engine4-badge] ![cocos2d-x][cocos2d-x-badge]
 > &nbsp;
 
@@ -60,6 +46,7 @@ React Native & Unity3d
 
 <!-- skill: web front-end -->
 [react.js-badge]: https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white "react.js badge alt"
+[next.js-badge]: https://img.shields.io/badge/next-61DAFB?logo=next&logoColor=white "next.js badge alt"
 
 <!-- skill: web back-end -->
 [node.js-badge]: https://img.shields.io/badge/node.js-339933?badge=node.js&badgeColor=white "node.js badge alt"
