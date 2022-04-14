@@ -20,8 +20,6 @@ React & Unity3d
 
 <!-- --- -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olcw78&langs_count=8)](https://github.com/olcw78/github-readme-stats)
-
 <!-- ## Stats -->
 
 <!-- ![olcw78's github stats][github-stats] -->
