@@ -1,7 +1,6 @@
 # Yoonsang Lee
 
-freelancer programmer year-1
-React & Unity3d
+year 2
 
 ---
 
