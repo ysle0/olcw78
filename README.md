@@ -14,7 +14,7 @@ year 2
 
 > &nbsp;
 > ![three.js][three.js-badge] ![webgl][webgl-badge] ![opengl][opengl-badge] ![directX11][directx11-badge]
-> ![unity3d][unity3d-badge] ![unreal-engine4][unreal-engine4-badge] ![cocos2d-x][cocos2d-x-badge]
+> ![unity3d][unity3d-badge] >
 > &nbsp;
 
 <!-- --- -->
