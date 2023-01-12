@@ -4,6 +4,10 @@ year 2
 
 ---
 
+<a href="https://app.daily.dev/highp"><img src="https://api.daily.dev/devcards/c2314a1d81d341b69bb7511517457b72.png?r=gje" width="400" alt="high lee's Dev Card"/></a>
+
+---
+
 ## 🕸️ web front-end
 
 > &nbsp;
@@ -14,7 +18,7 @@ year 2
 
 > &nbsp;
 > ![three.js][three.js-badge] ![webgl][webgl-badge] ![opengl][opengl-badge] ![directX11][directx11-badge]
-> ![unity3d][unity3d-badge] >
+> ![unity3d][unity3d-badge]
 > &nbsp;
 
 <!-- --- -->
