@@ -11,7 +11,7 @@ year 2
 ## 🕸️ web front-end
 
 > &nbsp;
-> ![react.js][react.js-badge]
+> ![react.js][react.js-badge] ![next.js][next.js-badge]
 > &nbsp;
 
 ## 🎮 3d & game
