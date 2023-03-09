@@ -1,8 +1,10 @@
 # Yoonsang Lee
 
-year 1
+year 2
 
+- openGL
 - Unity3d
+- webGL
 - React.js
 
 <!-- ## 🕸️ web front-end
