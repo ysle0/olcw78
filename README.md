@@ -6,6 +6,7 @@ year 2
 - Unity3d
 - webGL
 - React.js
+- Next.js
 
 <!-- ## 🕸️ web front-end
 
