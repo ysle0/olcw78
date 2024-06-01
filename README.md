@@ -1,6 +1,6 @@
 # Yoonsang Lee
 
-year 3
+year 2
 
 - openGL
 - Unity3d
